@@ -1,0 +1,2 @@
+# QCC
+Quartet Coalescent Calculator
